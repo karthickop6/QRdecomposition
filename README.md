@@ -60,7 +60,7 @@ QR_Decomposition(a)
 ## Output
 
 ```
-
+![](./mathsexp8.png)
 ```
 
 ## Result
